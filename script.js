@@ -74,7 +74,6 @@ document.addEventListener('DOMContentLoaded', () => {
   // Создайте массив с URL-адресами картинок заднего фона
   var backgroundImageUrls = [
     'love1.jpg',
-    'love.jpg',
     'love2.jpg',
     'love3.jpg',
     'love4.jpg',
